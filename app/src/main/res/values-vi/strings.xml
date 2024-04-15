@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music</string>
+
+    <string name="menu_home">Trang Chủ</string>
+    <string name="menu_all_songs">Tất cả bài hát</string>
+    <string name="menu_featured_songs">Bài hát nổi bật</string>
+    <string name="menu_popular_songs">Bài hát phổ biến</string>
+    <string name="menu_new_songs">Bài hát mới</string>
+    <string name="menu_feedback">Đánh giá</string>
+    <string name="menu_contact">Liên hệ</string>
+
+    <string name="label_facebook">Facebook</string>
+    <string name="label_call">Số điện thoại</string>
+    <string name="label_gmail">Gmail</string>
+    <string name="label_skype">Skype</string>
+    <string name="label_youtube">Youtube</string>
+    <string name="label_zalo">Zalo</string>
+
+    <string name="feedback_name">Họ và tên (*)</string>
+    <string name="feedback_email">Email</string>
+    <string name="feedback_phone">Số điện thoại</string>
+    <string name="feedback_comment">Đánh giá (*)</string>
+    <string name="send_feedback">Gửi đánh giá</string>
+
+    <string name="play_all">Phát toán bộ </string>
+    <string name="view_all">Xem toàn bộ </string>
+    <string name="music_player">Music</string>
+    <string name="views">Xem</string>
+    <string name="label_start_time">00:00</string>
+
+    // action
+    <string name="action_ok">OK</string>
+    <string name="action_cancel">Đóng </string>
+
+    // Validate
+    <string name="name_require">Hãy nhập tên của bạn </string>
+    <string name="comment_require">Hãy nhập đánh giá của bạn </string>
+
+    // Hint
+    <string name="hint_search_name">Tên bài hát </string>
+
+    // Label
+    <string name="label_artist"> Nghệ sỹ: </string>
+
+    // Message
+    <string name="msg_please_waiting">Vui lòng chờ trong giây lát </string>
+    <string name="msg_send_feedback_success">Gửi đánh giá thành công </string>
+    <string name="msg_exit_app">Bạn có chắc chắn muốn thoát </string>
+    <string name="msg_get_date_error">Lỗi, vui lòng thử lại </string>
+</resources>

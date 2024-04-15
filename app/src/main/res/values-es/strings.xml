@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music</string>
+
+    <string name="menu_home">Hogar</string>
+    <string name="menu_all_songs">Todas las canciones</string>
+    <string name="menu_featured_songs">Canciones destacadas</string>
+    <string name="menu_popular_songs">Canciones populares</string>
+    <string name="menu_new_songs">Canciones nuevas</string>
+    <string name="menu_feedback">Comentario</string>
+    <string name="menu_contact">Contacto</string>
+
+    <string name="label_facebook">Facebook</string>
+    <string name="label_call">Llamada telefónica</string>
+    <string name="label_gmail">Gmail</string>
+    <string name="label_skype">Skype</string>
+    <string name="label_youtube">Youtube</string>
+    <string name="label_zalo">Zalo</string>
+
+    <string name="feedback_name">Nombre completo (*)</string>
+    <string name="feedback_email">Correo electrónico</string>
+    <string name="feedback_phone">Número de teléfono</string>
+    <string name="feedback_comment">Comentario (*)</string>
+    <string name="send_feedback">Enviar comentarios</string>
+
+    <string name="play_all">Jugar todo</string>
+    <string name="view_all">Ver todo</string>
+    <string name="music_player">Music</string>
+    <string name="views">Puntos de vista</string>
+    <string name="label_start_time">00:00</string>
+
+    // action
+    <string name="action_ok">DE ACUERDO</string>
+    <string name="action_cancel">Cancelar</string>
+
+    // Validate
+    <string name="name_require">por favor, escriba su nombre</string>
+    <string name="comment_require">Por favor ingresa tu comentario</string>
+
+    // Hint
+    <string name="hint_search_name">Nombre de la cancion…</string>
+
+    // Label
+    <string name="label_artist">Artista:</string>
+
+    // Message
+    <string name="msg_please_waiting">Espere por favor…</string>
+    <string name="msg_send_feedback_success">¡Envíe sus comentarios con éxito!</string>
+    <string name="msg_exit_app">¿Estás segura de que quieres salir?</string>
+    <string name="msg_get_date_error">Error general, inténtalo de nuevo más tarde.</string>
+</resources>
